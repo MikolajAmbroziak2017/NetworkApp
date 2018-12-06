@@ -6,7 +6,84 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84d1870c-f497-4615-b129-95b60a6f094b" name="Default Changelist" comment="" />
+    <list default="true" id="84d1870c-f497-4615-b129-95b60a6f094b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../lab 6/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/hello.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/hello/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/hello/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/hello/src/main/java/app/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/hello/src/main/java/app/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/hello/src/main/java/app/CatApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/hello/src/main/java/app/CatApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/hello/src/main/java/app/CatResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/hello/src/main/java/app/CatResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/hello/src/main/java/app/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/hello/src/main/java/app/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/hello/src/main/java/app/DogApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/hello/src/main/java/app/DogApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/hello/src/main/java/app/DogResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/hello/src/main/java/app/DogResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/hello/src/main/java/app/Mammal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/hello/src/main/java/app/Mammal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/hello/src/main/java/app/PetApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/hello/src/main/java/app/PetApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/hello/src/main/java/app/PetMenager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/hello/src/main/java/app/PetMenager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/hello/target/classes/app/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/hello/target/classes/app/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/hello/target/classes/app/CatApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/hello/target/classes/app/CatApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/hello/target/classes/app/CatResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/hello/target/classes/app/CatResource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/hello/target/classes/app/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/hello/target/classes/app/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/hello/target/classes/app/DogApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/hello/target/classes/app/DogApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/hello/target/classes/app/DogResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/hello/target/classes/app/DogResource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/hello/target/classes/app/Mammal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/hello/target/classes/app/Mammal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/hello/target/classes/app/PetApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/hello/target/classes/app/PetApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/hello/target/classes/app/PetMenager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/hello/target/classes/app/PetMenager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/CatApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/CatApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/CatResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/CatResource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/DogApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/DogApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/DogResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/DogResource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/Mammal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/Mammal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/PetApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/PetApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/PetMenager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/PetMenager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/zapasowa/hello.rar" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/zapasowa/hello.rar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/zapasowa/hello/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/zapasowa/hello/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/zapasowa/hello/src/main/java/app/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/zapasowa/hello/src/main/java/app/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/zapasowa/hello/src/main/java/app/CatApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/zapasowa/hello/src/main/java/app/CatApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/zapasowa/hello/src/main/java/app/CatResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/zapasowa/hello/src/main/java/app/CatResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/zapasowa/hello/src/main/java/app/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/zapasowa/hello/src/main/java/app/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/zapasowa/hello/src/main/java/app/DogApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/zapasowa/hello/src/main/java/app/DogApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/zapasowa/hello/src/main/java/app/DogResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/zapasowa/hello/src/main/java/app/DogResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/zapasowa/hello/src/main/java/app/Mammal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/zapasowa/hello/src/main/java/app/Mammal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/zapasowa/hello/src/main/java/app/PetApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/zapasowa/hello/src/main/java/app/PetApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/zapasowa/hello/src/main/java/app/PetMenager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/zapasowa/hello/src/main/java/app/PetMenager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/zapasowa/hello/target/classes/app/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/zapasowa/hello/target/classes/app/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/zapasowa/hello/target/classes/app/CatApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/zapasowa/hello/target/classes/app/CatApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/zapasowa/hello/target/classes/app/CatResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/zapasowa/hello/target/classes/app/CatResource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/zapasowa/hello/target/classes/app/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/zapasowa/hello/target/classes/app/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/zapasowa/hello/target/classes/app/DogApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/zapasowa/hello/target/classes/app/DogApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/zapasowa/hello/target/classes/app/DogResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/zapasowa/hello/target/classes/app/DogResource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/zapasowa/hello/target/classes/app/Mammal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/zapasowa/hello/target/classes/app/Mammal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/zapasowa/hello/target/classes/app/PetApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/zapasowa/hello/target/classes/app/PetApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/zapasowa/hello/target/classes/app/PetMenager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/zapasowa/hello/target/classes/app/PetMenager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/zapasowa/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/zapasowa/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/zapasowa/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/CatApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/zapasowa/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/CatApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/zapasowa/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/CatResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/zapasowa/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/CatResource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/zapasowa/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/zapasowa/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/zapasowa/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/DogApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/zapasowa/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/DogApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/zapasowa/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/DogResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/zapasowa/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/DogResource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/zapasowa/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/Mammal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/zapasowa/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/Mammal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/zapasowa/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/PetApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/zapasowa/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/PetApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/zapasowa/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/PetMenager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/zapasowa/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/PetMenager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Config.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/app/Calculate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/app/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/app/MyAdnontation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/app/TestAspect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Config.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/app/Calculate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/app/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/app/MyAdnontation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/app/TestAspect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Config.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -37,19 +114,12 @@
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="aop-example" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="aop-example" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="aop-example" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="other" type="c8890929:TasksNode$1" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
               </path>
             </expand>
             <select />
@@ -130,9 +200,19 @@
     <session id="-1272390607">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="gradle" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Groovy" value="2" />
         </counts>
       </usages-collector>
     </session>
@@ -142,8 +222,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="119">
+              <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -151,7 +231,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/app/Hello.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
+            <state relative-caret-position="272">
               <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -160,10 +240,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/app/Calculate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
+            <state relative-caret-position="153">
               <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -172,13 +252,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Config.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+            <state relative-caret-position="306">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#730#731#0" expanded="true" />
+                <element signature="e#765#766#0" expanded="true" />
+                <element signature="e#833#834#0" expanded="true" />
+                <element signature="e#881#882#0" expanded="true" />
+                <element signature="e#942#943#0" expanded="true" />
+                <element signature="e#982#983#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -187,8 +273,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/app/TestAspect.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+            <state relative-caret-position="102">
+              <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -223,6 +309,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -407,9 +496,9 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="6168406099312" />
+        <entry key="$PROJECT_DIR$" value="6169396189511" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="572028781" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="997762786" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2585518924" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="1047541256" />
       </map>
@@ -599,11 +688,11 @@
         <option value="$PROJECT_DIR$/src/main/java/Hello.java" />
         <option value="$PROJECT_DIR$/src/main/resources/2.propertice" />
         <option value="$PROJECT_DIR$/src/main/resources/2.properties" />
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/main/java/Config.java" />
         <option value="$PROJECT_DIR$/src/main/java/app/Calculate.java" />
         <option value="$PROJECT_DIR$/src/main/java/app/Hello.java" />
         <option value="$PROJECT_DIR$/src/main/java/app/TestAspect.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/Config.java" />
       </list>
     </option>
   </component>
@@ -620,47 +709,20 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="100" />
-    <option name="y" value="83" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="321" />
+    <option name="y" value="120" />
     <option name="width" value="1621" />
-    <option name="height" value="890" />
+    <option name="height" value="846" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="aop-example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="aop-example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="aop-example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="aop-example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="aop-example_main" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="aop-example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="aop-example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="aop-example_main" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="aop-example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="aop-example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="aop-example_main" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -690,13 +752,36 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="aop-example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="aop-example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="aop-example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="aop-example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="aop-example_main" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="aop-example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="aop-example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="aop-example_main" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542109904496" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../lab4.3/hello" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543311144485" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -715,6 +800,24 @@
     </option>
   </component>
   <component name="RunManager" selected="Tomcat Server.Unnamed">
+    <configuration name="aop-example [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assemble" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method v="2" />
+    </configuration>
     <configuration name="aop-example [buildDependents]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -827,11 +930,13 @@
       <item itemvalue="Tomcat Server.Unnamed" />
       <item itemvalue="Gradle.aop-example [buildDependents]" />
       <item itemvalue="Gradle.aop-example [build]" />
+      <item itemvalue="Gradle.aop-example [assemble]" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.aop-example [buildDependents]" />
         <item itemvalue="Gradle.aop-example [build]" />
+        <item itemvalue="Gradle.aop-example [assemble]" />
       </list>
     </recent_temporary>
   </component>
@@ -847,16 +952,18 @@
       <updated>1542100204496</updated>
       <workItem from="1542103536140" duration="5741000" />
       <workItem from="1542709959439" duration="50000" />
+      <workItem from="1543095128974" duration="833000" />
+      <workItem from="1543311127790" duration="215000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5791000" />
+    <option name="totallyTimeSpent" value="6839000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="321" y="120" width="1621" height="846" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22654584" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2786675" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -866,7 +973,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286334" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2275281" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -874,10 +981,10 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32884097" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" order="10" weight="0.3286334" />
+      <window_info anchor="bottom" id="Build" order="10" visible="true" weight="0.3272472" />
       <window_info anchor="bottom" id="Application Servers" order="11" weight="0.329718" />
       <window_info anchor="bottom" id="Spring" order="12" />
-      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info active="true" anchor="bottom" id="Messages" order="13" visible="true" weight="0.3286517" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" />
       <window_info anchor="bottom" id="Database Changes" order="15" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -885,7 +992,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Gradle" order="5" weight="0.19829424" />
+      <window_info anchor="right" id="Gradle" order="5" visible="true" weight="0.19795004" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
@@ -941,25 +1048,38 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/2.propertice" />
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="119">
+          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Config.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/Hello.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        <state relative-caret-position="272">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/2.properties">
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/Calculate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        <state relative-caret-position="153">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/TestAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -970,32 +1090,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/app/TestAspect.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/2.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/app/Hello.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Config.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/app/Calculate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+            <element signature="e#765#766#0" expanded="true" />
+            <element signature="e#833#834#0" expanded="true" />
+            <element signature="e#881#882#0" expanded="true" />
+            <element signature="e#942#943#0" expanded="true" />
+            <element signature="e#982#983#0" expanded="true" />
           </folding>
         </state>
       </provider>

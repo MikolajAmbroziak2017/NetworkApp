@@ -1,0 +1,1137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="hello:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2066039d-9372-441e-bb5d-4f7286cf638e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../lab 6/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/CatApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/CatApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/CatResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/CatResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/DogApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/DogApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/DogResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/DogResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/Mammal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/Mammal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/PetApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/PetApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/PetMenager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/PetMenager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/app/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/app/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/app/CatApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/app/CatApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/app/CatResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/app/CatResource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/app/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/app/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/app/DogApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/app/DogApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/app/DogResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/app/DogResource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/app/Mammal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/app/Mammal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/app/PetApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/app/PetApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/app/PetMenager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/app/PetMenager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/CatApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/CatApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/CatResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/CatResource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/DogApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/DogApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/DogResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/DogResource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/Mammal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/Mammal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/PetApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/PetApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/PetMenager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/PetMenager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zapasowa/hello.rar" beforeDir="false" afterPath="$PROJECT_DIR$/../zapasowa/hello.rar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zapasowa/hello/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zapasowa/hello/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zapasowa/hello/src/main/java/app/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zapasowa/hello/src/main/java/app/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zapasowa/hello/src/main/java/app/CatApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zapasowa/hello/src/main/java/app/CatApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zapasowa/hello/src/main/java/app/CatResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zapasowa/hello/src/main/java/app/CatResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zapasowa/hello/src/main/java/app/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zapasowa/hello/src/main/java/app/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zapasowa/hello/src/main/java/app/DogApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zapasowa/hello/src/main/java/app/DogApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zapasowa/hello/src/main/java/app/DogResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zapasowa/hello/src/main/java/app/DogResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zapasowa/hello/src/main/java/app/Mammal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zapasowa/hello/src/main/java/app/Mammal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zapasowa/hello/src/main/java/app/PetApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zapasowa/hello/src/main/java/app/PetApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zapasowa/hello/src/main/java/app/PetMenager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zapasowa/hello/src/main/java/app/PetMenager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zapasowa/hello/target/classes/app/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zapasowa/hello/target/classes/app/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zapasowa/hello/target/classes/app/CatApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zapasowa/hello/target/classes/app/CatApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zapasowa/hello/target/classes/app/CatResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zapasowa/hello/target/classes/app/CatResource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zapasowa/hello/target/classes/app/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zapasowa/hello/target/classes/app/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zapasowa/hello/target/classes/app/DogApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zapasowa/hello/target/classes/app/DogApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zapasowa/hello/target/classes/app/DogResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zapasowa/hello/target/classes/app/DogResource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zapasowa/hello/target/classes/app/Mammal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zapasowa/hello/target/classes/app/Mammal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zapasowa/hello/target/classes/app/PetApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zapasowa/hello/target/classes/app/PetApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zapasowa/hello/target/classes/app/PetMenager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zapasowa/hello/target/classes/app/PetMenager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zapasowa/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zapasowa/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zapasowa/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/CatApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zapasowa/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/CatApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zapasowa/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/CatResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zapasowa/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/CatResource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zapasowa/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zapasowa/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zapasowa/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/DogApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zapasowa/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/DogApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zapasowa/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/DogResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zapasowa/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/DogResource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zapasowa/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/Mammal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zapasowa/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/Mammal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zapasowa/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/PetApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zapasowa/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/PetApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zapasowa/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/PetMenager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zapasowa/hello/target/hello-1.0-SNAPSHOT/WEB-INF/classes/app/PetMenager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/aop-example/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab5/aop-example/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/aop-example/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab5/aop-example/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/aop-example/.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab5/aop-example/.gradle/4.8/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/aop-example/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab5/aop-example/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/aop-example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab5/aop-example/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/aop-example/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab5/aop-example/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/aop-example/build/classes/java/main/Config.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/aop-example/build/classes/java/main/app/Calculate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/aop-example/build/classes/java/main/app/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/aop-example/build/classes/java/main/app/MyAdnontation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/aop-example/build/classes/java/main/app/TestAspect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/aop-example/out/production/classes/Config.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/aop-example/out/production/classes/app/Calculate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/aop-example/out/production/classes/app/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/aop-example/out/production/classes/app/MyAdnontation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/aop-example/out/production/classes/app/TestAspect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/aop-example/src/main/java/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab5/aop-example/src/main/java/Config.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2004853661">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.80" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.open.time.95" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1890" />
+          <entry key="xml" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1890" />
+          <entry key="XML" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="8" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1724969055">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1076" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1076" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="2" />
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="JAVA" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-481196946">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-611345501">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="97" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="97" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1054536821">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="25" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.1" value="7" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="24" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="6677" />
+          <entry key="xml" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="6677" />
+          <entry key="XML" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="java" value="38" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="38" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/app/CatApi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1343">
+              <caret line="97" column="19" selection-start-line="97" selection-start-column="19" selection-end-line="97" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/app/Hello.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/app/Cat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/app/DogApi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="87" column="20" selection-start-line="87" selection-start-column="20" selection-end-line="87" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/app/Dog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/app/PetMenager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="799">
+              <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/app/DogResource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/app/PetApi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="749">
+              <caret line="54" column="34" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/app/CatResource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/app/MammalApi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dog</find>
+      <find>getManager</find>
+      <find>getDog</find>
+      <find>getCat</find>
+      <find>Manager</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/app/Config.java" />
+        <option value="$PROJECT_DIR$/src/main/java/app/Hello.java" />
+        <option value="$PROJECT_DIR$/src/main/java/app/Menager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/app/BSO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/app/ApiValueExample.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/app/MammalResource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/app/MammalApi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/app/Updatable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/app/Cat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/app/Mammal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/app/Dog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/app/PetApi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/app/PetMenager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/app/DogResource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/app/CatResource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/app/DogApi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/app/CatApi.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hello" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hello" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="912" />
+    <option name="y" value="173" />
+    <option name="width" value="974" />
+    <option name="height" value="734" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpellCheckingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hello" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543337820658" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="app" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="TomeeConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_hello_2" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51358" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.10" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="hello:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_hello" />
+        <option name="HTTP_PORT" value="8000" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51288" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="hello:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.10" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="hello:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_hello" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51288" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="hello:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2066039d-9372-441e-bb5d-4f7286cf638e" name="Default Changelist" comment="" />
+      <created>1540238770068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540238770068</updated>
+      <workItem from="1540238781142" duration="1802000" />
+      <workItem from="1540240647336" duration="1750000" />
+      <workItem from="1540278611889" duration="3524000" />
+      <workItem from="1540286001250" duration="7366000" />
+      <workItem from="1540327019893" duration="2991000" />
+      <workItem from="1540392490611" duration="457000" />
+      <workItem from="1540584564287" duration="2606000" />
+      <workItem from="1540726301483" duration="1218000" />
+      <workItem from="1540749036778" duration="3321000" />
+      <workItem from="1540797714908" duration="23000" />
+      <workItem from="1540851314812" duration="2219000" />
+      <workItem from="1540885089181" duration="1378000" />
+      <workItem from="1540890505600" duration="7266000" />
+      <workItem from="1541450654065" duration="161000" />
+      <workItem from="1541851133604" duration="423000" />
+      <workItem from="1541852494000" duration="7227000" />
+      <workItem from="1541926819477" duration="3065000" />
+      <workItem from="1541971571488" duration="9861000" />
+      <workItem from="1542016830493" duration="3770000" />
+      <workItem from="1542027357449" duration="5973000" />
+      <workItem from="1542045028688" duration="8207000" />
+      <workItem from="1542061132982" duration="1167000" />
+      <workItem from="1542088977538" duration="1199000" />
+      <workItem from="1542099814911" duration="99000" />
+      <workItem from="1542100828357" duration="385000" />
+      <workItem from="1542298793852" duration="1566000" />
+      <workItem from="1542300577484" duration="3112000" />
+      <workItem from="1542303747599" duration="717000" />
+      <workItem from="1542647474126" duration="6891000" />
+      <workItem from="1542706817075" duration="22000" />
+      <workItem from="1542712850633" duration="450000" />
+      <workItem from="1543099666912" duration="1574000" />
+      <workItem from="1543137676261" duration="15066000" />
+      <workItem from="1543235932305" duration="871000" />
+      <workItem from="1543236905077" duration="1440000" />
+      <workItem from="1543319783503" duration="1536000" />
+      <workItem from="1543336716040" duration="1116000" />
+      <workItem from="1543915409292" duration="710000" />
+      <workItem from="1543920549586" duration="424000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="113323000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49889624" visible="true" weight="0.13326226" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" sideWeight="0.50110376" side_tool="true" weight="0.25728154" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3340564" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3275488" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Application Servers" order="14" weight="0.32941177" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.10127932" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49889624" visible="true" weight="0.17430703" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" sideWeight="0.50110376" side_tool="true" weight="0.25728154" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40238613" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32858709" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Application Servers" order="14" weight="0.32941177" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.10127932" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/Object.java" />
+    <entry file="file://$PROJECT_DIR$/target/classes/app/PetMenager.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE.jar!/org/springframework/http/HttpStatus.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/BSO.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.5.RELEASE/spring-beans-5.0.5.RELEASE.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5">
+          <caret line="826" selection-start-line="826" selection-end-line="826" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/ApiValueExample.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/function/Predicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="e#674#675#0" expanded="true" />
+            <element signature="e#714#715#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/Updatable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/MammalResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/Mammal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-449">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/CatApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1343">
+          <caret line="97" column="19" selection-start-line="97" selection-start-column="19" selection-end-line="97" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/PetMenager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/DogResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/CatResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/MammalApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/Hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/PetApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="749">
+          <caret line="54" column="34" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/DogApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="87" column="20" selection-start-line="87" selection-start-column="20" selection-end-line="87" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>hello:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>hello</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: javax.servlet:javax.servlet-api:4.0.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
